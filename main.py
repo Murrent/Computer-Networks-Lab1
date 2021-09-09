@@ -1,3 +1,5 @@
+# Martin Vickgren
+
 def int2binary(i):
     if i == 0:              # If int is 0, binary = 0
         return "0"              # return binary number "0"

@@ -1,3 +1,5 @@
+# Martin Vickgren
+
 def changeChar(str, index, newChar):
     if index < 0 or index > len(str) - 1:   # index is out of range
         return str                              # return input str

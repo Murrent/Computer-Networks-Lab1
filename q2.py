@@ -1,4 +1,6 @@
-import sys
+# Martin Vickgren
+
+# import sys
 
 
 def parseMessage(inputString):
